@@ -1,8 +1,8 @@
 <h1 align=center>Flutter ❤</h1>
 
-## flutter-03-Statefull
+## flutter-03-Dicee
 
-used various widgets like Container, Column, Card, ListTile, etc to develop a Business card.
+used various widgets like Container, Column, Row, Expanded, etc to develop a stateful Dice app.
 
 ## The App
 ![](./dice.gif)
