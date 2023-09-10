@@ -5,7 +5,7 @@
 used various widgets like Container, Column, Card, ListTile, etc to develop a Business card.
 
 ## The App
-![](./dice.png)
+![](./dice.gif)
 
 
 ## Notes
