@@ -1,9 +1,5 @@
 <h1 align=center>Flutter ❤</h1>
 
-# flutter-03-Dicee
-
-used various widgets like Container, Column, Row, Expanded, etc to develop a stateful Dice app.
-
 ## All Flutter Projects
 
 > Run any Flutter repository on Zapp website: <a href="https://zapp.run/assets/homepage/import-github.gif">refer this link </a>
@@ -14,6 +10,10 @@ used various widgets like Container, Column, Row, Expanded, etc to develop a sta
 |1|I am Rich|[Let's Go](https://github.com/Rahullkumr/flutter-01-IAmRich)|
 |2|My Card|[Let's Go](https://github.com/Rahullkumr/flutter-02-MyCard)|
 |3|Dicee|[Let's Go](https://github.com/Rahullkumr/flutter-03-Dicee)|
+
+# flutter-03-Dicee
+
+used various widgets like Container, Column, Row, Expanded, etc to develop a stateful Dice app.
 
 ## The App
 ![](./dice.gif)
