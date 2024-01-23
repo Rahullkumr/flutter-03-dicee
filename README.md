@@ -1,16 +1,3 @@
-<h1 align=center>Flutter ❤</h1>
-
-## All Flutter Projects
-
-> Run any Flutter repository on Zapp website: <a href="https://zapp.run/assets/homepage/import-github.gif">refer this link </a>
-
-| SN | Project Name | Link |
-| :---: | :--- | :---: |
-|0|Hello World|[Let's Go](https://github.com/Rahullkumr/flutter-00-helloWorld)|
-|1|I am Rich|[Let's Go](https://github.com/Rahullkumr/flutter-01-IAmRich)|
-|2|My Card|[Let's Go](https://github.com/Rahullkumr/flutter-02-MyCard)|
-|3|Dicee|[Let's Go](https://github.com/Rahullkumr/flutter-03-Dicee)|
-
 # flutter-03-Dicee
 
 used various widgets like Container, Column, Row, Expanded, etc to develop a stateful Dice app.
@@ -201,4 +188,8 @@ CustomPaint(
 
 - `Hot reload` is a feature of Flutter that allows to see the changes in code without having to rebuild the app. When a change is made to a `stateful widget`, the `dirty` flag will be set and the `build()` method will be called. This will cause the widget to be rebuilt and the changes will be reflected in the app.
 
----
+-----
+
+Run any Flutter repository on Zapp website: <a href="https://zapp.run/assets/homepage/import-github.gif">refer this link </a>
+
+List of all Flutter apps: <a href="https://github.com/Rahullkumr/Flutter-Projects-List">click here</a>
